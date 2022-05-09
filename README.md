@@ -1,2 +1,2 @@
 # Pull
-Wir eklaren euch wie pull funktioniert.
+Wir eklären euch wie pull funktioniert.
